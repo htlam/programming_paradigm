@@ -31,7 +31,8 @@ In VS Code, install the following extensions:
 
 ## Tasks
 
-1. [Imperative Programming Paradigm (single file)](simple)
-2. [Imperative Programming Paradigm (modular design)](imperative)
-3. [Object-oriented Programming Paradigm](object_oriented)
-4. [Declarative Programming Paradigm](declarative)
+1. Imperative Programming Paradigm
+   1. [Single source file](simple)
+   2. [Modular design with multiple source files](imperative)
+2. [Object-oriented Programming Paradigm](object_oriented)
+3. [Declarative Programming Paradigm](declarative)
