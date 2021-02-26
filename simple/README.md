@@ -52,6 +52,8 @@ In this practice, we will learn to
       g++ -c pokemon.cpp
    ```
 
+   Note that the `Makefile` requires the use of leading tab instead of whitespaces. Please insert tab before the commands in the `Makefile`.
+
 6. Build the object files and executable using the `make` commands
    
    ```sh
